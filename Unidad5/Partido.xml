@@ -1,0 +1,26 @@
+<?xml version2"1.0! encoding="UTF-8"?>
+<partido>
+	<fecha>2024-01-01</fecha>
+	<hora> 17:00</hora>
+	<equipo>
+		<equipo tipo="L" nombre="RM">
+			<jugadores>
+				<jugador nombre="Belignhan" dorsal"5" posicion="Centro"/>
+				<jugador nombre="Vinicius" dordasl="7" posicion="Delantero"
+			</jugador>
+		</equipo>
+		<equipo tipo="U" nombre="Barcelona">
+			<jugadores>
+				<jugador nombre="Pedri" dorsal"6" posicion="Centro"/>
+				<jugador nombre="Vinicius" dorsal="7" posicion="Delantero"
+			</jugadores>
+		</equipo>
+	</equipos>
+	<acciones>
+		<accion tipo="G">
+			<minuto>6</minuto>
+			<equipo> RM </equipo>
+			<jugador>5</jugador>
+		</accion>
+	</acciones>
+</partido>
